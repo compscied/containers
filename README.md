@@ -1,2 +1,3 @@
-# containers
-container fun docker lxc etc
+# Linux Containers (Docker, LXC etc) Tutorials and Exercises
+Work in progress
+
